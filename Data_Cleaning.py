@@ -2,7 +2,7 @@
 ApexPlanet Internship - Task 1
 Data Immersion & Wrangling
 
-Author: Aradhya Maheshwari
+Author: Aditya Sharma
 Description:
 This script performs data cleaning and preprocessing on the ApexPlanet
 Data Analytics dataset using Python and Pandas.
